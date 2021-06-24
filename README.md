@@ -20,6 +20,9 @@ The file structure is the following:
 
 
 ### Roadmap
+- change direction on wall collision
+- implement possibility to decrease the PacMen one by one 
+- add a stop Button
 
 ### License information
 
